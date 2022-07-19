@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shureyy
-- 👀 I’m interested in front-end and back-end App programming
+- 👀 I’m interested in front-end, back-end App programming and mobile artificial intelligence using TensorFlow
 - 🌱 I’m currently learning Flutter, so I can easily create Apps for all kinds of platforms
 - 📫 If for whatever reason you want to contact me, feel free to write to my Email Address
 
